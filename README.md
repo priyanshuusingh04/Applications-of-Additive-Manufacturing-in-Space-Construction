@@ -32,6 +32,16 @@ AM-in-Space-Construction/
 ├── report/              # Detailed project report (PDF)  
 │   └── AM_Space_Report.pdf  
 ├── presentation/        # Project presentation slides (PDF/PPT)  
-│   └── AM_Space_Presentation.pdf  
-├── references/          # Research papers, notes, and citations (optional)  
-└── README.md            # Project documentation (this file)  
+│   └── AM_Space_Presentation.ppt 
+└── README.md            # Project documentation (this file)
+```
+
+## 🔹 Author  
+👤 **Priyanshu Singh**  
+- 🎓 IIT Ropar | Mechanical Engineering  
+- 🔧 Skills: Abaqus, SolidWorks, OpenFOAM, Fusion, Ansys, Arduino IDE, Linux  
+- 📧 Email: priyanshusingh04112003@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/priyanshu-singh-a47033265) | [YouTube](https://youtube.com/@theunfilteredguyy)  
+
+---
+⭐ If you like this project, don’t forget to **star the repo**!
