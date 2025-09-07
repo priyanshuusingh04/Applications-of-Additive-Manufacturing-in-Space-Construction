@@ -35,7 +35,7 @@ AM-in-Space-Construction/
 │   └── AM_Space_Presentation.ppt 
 └── README.md            # Project documentation (this file)
 ```
-
+---
 ## 🔹 Author  
 👤 **Priyanshu Singh**  
 - 🎓 IIT Ropar | Mechanical Engineering  
@@ -44,4 +44,3 @@ AM-in-Space-Construction/
 - 🌐 [LinkedIn](https://www.linkedin.com/in/priyanshu-singh-a47033265) | [YouTube](https://youtube.com/@theunfilteredguyy)  
 
 ---
-⭐ If you like this project, don’t forget to **star the repo**!
